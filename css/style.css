@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+header {
+	padding-left: 35px 0; 
+	background-image: url(../img/home-header-bg.jpg)
+}
+
+header h1{
+	color:#fba755;
+}
+
+.titulo span{
+	color: #fff;
+}
+
+
+#sec-home {
+	background-image: url(../img/home-header-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 600px 0;
+	
+}
+
+
+#sec-home h1{
+	font-size: 55px;
+	color: #fff;
+}
+
+#sec-home p {
+	color: #fff;
+}
+
+.boton2 {
+	background-color: #fba755;
+	border: none;
+	color: #fff;
+}
+
+.boton1{
+	margin-left: 35px;
+}
+
+#sec-coaches h3 {
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 55px;
+	font-size: 40px;
+	font-weight:700;
+}
+
+#sec-coaches h4 {
+	text-align: center;
+	padding: 35px 0;
+}
+
+#sec-coaches p{
+	text-align: center;
+	color: #7e7979;
+}
+
+#sec-coaches {
+	padding-bottom: 100px;
+}
+
+
+#sec-about{
+	padding: 75px 0;
+}
+#sec-about h1 {
+	font-size: 25px;
+	font-weight: 700;
+	margin-left: 45px;
+}
+
+
+#sec-about p{
+	font-size: 15px;
+	text-align: justify;
+	margin-left: 45px;
+}
+
+
+footer {
+	background-color: #7e7979;
+	padding: 200px 0;
+	text-align: center;
+}
+
+footer p{
+	color: #fff;
+}
+
+footer h1 {
+	color: #fba755;
+}
+
+footer a{
+	color: #fba755;
+}
+
+footer a:hover{
+	color: #fff;
+}
